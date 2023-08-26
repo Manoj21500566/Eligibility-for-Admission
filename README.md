@@ -5,21 +5,27 @@ To write C# program to find the eligibility for admission to an engineering cour
 
 ## Algorithnm:
 Step1:
+
 Start by creating a new class.
 
 Step2:
+
 Initiate the integer variables to assign the marks of Maths, Physics and Chemistry and a string variable to assign the name of the student; read the input from the user.
 
 Step3:
+
 Calculate the first total that sums all the 3 subject marks; and the second total that sums maths and physics marks.
 
 Step4:
+
 Based on the condition given, check whether the student is eligible for the engineering admission.
 
 Step5:
+
 Display the output for the input read from the user.
 
 Step6:
+
 Stop the execution.
 
 ## Program:
@@ -74,11 +80,9 @@ namespace Expno01
 ## Output:
 
 
-![1](https://github.com/Manoj21500566/Eligibility-for-Admission/assets/94588708/4df3b5bf-9276-4973-95bb-ca99cc71d851)
+![1](https://github.com/Manoj21500566/Eligibility-for-Admission/assets/94588708/75d56a66-8c78-4282-a40b-6cc23ec4df91)
 
 
-
-![2](https://github.com/Manoj21500566/Eligibility-for-Admission/assets/94588708/838b915f-5fba-4513-b35d-fda725b3613f)
 
 
 ## Result:
