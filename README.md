@@ -12,7 +12,7 @@ Start by creating a new class.
 
 Initiate the integer variables to assign the marks of Maths, Physics and Chemistry and a string variable to assign the name of the student; read the input from the user.
 
-Step3:
+### Step3:
 
 Calculate the first total that sums all the 3 subject marks; and the second total that sums maths and physics marks.
 
